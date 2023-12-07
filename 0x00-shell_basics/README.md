@@ -14,3 +14,4 @@
 13-Script to create a symbolic link in the current dir
 14.Script to copy all html files to the parent working dir
 16.Script to delete all files in the curerent directory that end whit ~
+17.Script that create directories welcome/to/school in a form of tree
