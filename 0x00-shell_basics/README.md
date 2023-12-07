@@ -12,3 +12,4 @@
 11.Script to list hiden files and current dir/parent dir/boot dir in this oder in a long format
 12.Script that prints the type of a file named iamafile in /tmp directory
 13-Script to create a symbolic link in the current dir
+14.Script to copy all html files to the parent working dir
