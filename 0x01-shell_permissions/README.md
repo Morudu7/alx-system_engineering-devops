@@ -12,3 +12,4 @@
 11.Script that add execute permissions to all directory and subdirectories of the current dir for owner user, group user and other users
 12.Script to create a new directory 'my_dir' whith permissions 751 in the urrent directory
 13.Script to change group owner to school for the file hello
+14.Script that changes owner to vincent and gruop owner to staff for all files and directories in the current dir
