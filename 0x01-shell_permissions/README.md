@@ -13,3 +13,4 @@
 12.Script to create a new directory 'my_dir' whith permissions 751 in the urrent directory
 13.Script to change group owner to school for the file hello
 14.Script that changes owner to vincent and gruop owner to staff for all files and directories in the current dir
+15.Script that change the permissions of symbolic file _hello to user vincent and group staff
