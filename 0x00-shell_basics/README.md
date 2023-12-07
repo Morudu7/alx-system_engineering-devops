@@ -2,3 +2,4 @@
 1.Script to list all the contents of a diretory
 2.Script that changes the working directory to the home directory
 3.Script to list files in a current  directory in a long format
+4.Script to list all files in the current directory including hiden ones in a long format
