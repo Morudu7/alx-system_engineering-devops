@@ -7,3 +7,4 @@
 6.Script to create a dir named my_first_directory in /root/
 7.Script to move file betty from /tmp to /tmp/my_first_directory
 8.Script to delete file betty from /tmp/my_first_directory
+9.Script to delete dir my_first_directory
