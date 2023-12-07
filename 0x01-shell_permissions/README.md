@@ -9,3 +9,4 @@
 8.Script tha sets  no permission to owner user , group user and sets all permissions to other user
 9.Script to set the mode of the file to be like this -rwxr-x-wx 1 root root 23 sep 20 14:25 hello
 10.Script to set mode of file hello the same as olleh 's mode
+11.Script that add execute permissions to all directory and subdirectories of the current dir for owner user, group user and other users
