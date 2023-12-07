@@ -4,3 +4,4 @@
 3.Script to change the user of file hello to betty
 4.Script to create a new file called hello
 5.Script that add execute permission to the owner of the file hello
+6.Script to add execute permissions to group ,owner and read permissions to other users in file hello
