@@ -8,3 +8,4 @@
 7.Script to move file betty from /tmp to /tmp/my_first_directory
 8.Script to delete file betty from /tmp/my_first_directory
 9.Script to delete dir my_first_directory
+10.Script to change to the previouse directory
