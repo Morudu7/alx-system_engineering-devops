@@ -13,6 +13,7 @@
 12.Script that prints the type of a file named iamafile in /tmp directory
 13-Script to create a symbolic link in the current dir
 14.Script to copy all html files to the parent working dir
+15.Script that move all fies beginning whit a upper case to /tmp/u
 16.Script to delete all files in the curerent directory that end whit ~
 17.Script that create directories welcome/to/school in a form of tree
 18.Script for displaying all files and directories in the current directory separated by commas and dir's ending with / and the list should be alpha listed
