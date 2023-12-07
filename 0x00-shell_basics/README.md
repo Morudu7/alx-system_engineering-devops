@@ -13,3 +13,4 @@
 12.Script that prints the type of a file named iamafile in /tmp directory
 13-Script to create a symbolic link in the current dir
 14.Script to copy all html files to the parent working dir
+16.Script to delete all files in the curerent directory that end whit ~
