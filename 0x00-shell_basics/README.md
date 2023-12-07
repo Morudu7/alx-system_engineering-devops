@@ -10,3 +10,4 @@
 9.Script to delete dir my_first_directory
 10.Script to change to the previouse directory
 11.Script to list hiden files and current dir/parent dir/boot dir in this oder in a long format
+12.Script that prints the type of a file named iamafile in /tmp directory
