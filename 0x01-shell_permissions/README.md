@@ -6,3 +6,4 @@
 5.Script that add execute permission to the owner of the file hello
 6.Script to add execute permissions to group ,owner and read permissions to other users in file hello
 7.Script to add execute permissions to owner , group user and also other users in file hello
+8.Script tha sets  no permission to owner user , group user and sets all permissions to other user
