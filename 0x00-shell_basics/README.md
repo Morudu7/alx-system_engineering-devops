@@ -17,3 +17,4 @@
 16.Script to delete all files in the curerent directory that end whit ~
 17.Script that create directories welcome/to/school in a form of tree
 18.Script for displaying all files and directories in the current directory separated by commas and dir's ending with / and the list should be alpha listed
+19.Script to crete a magic file school
