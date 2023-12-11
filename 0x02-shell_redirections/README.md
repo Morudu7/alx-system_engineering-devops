@@ -5,3 +5,4 @@
 4.Script that display the last 10 line of file /etc/passwd
 5.Script that prints the first 10 lines of file /etc/passwd
 6.Script to prints the the first 3 lines of iacta and not allowed to use sed
+7.Script to create a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing Best School ending whith a new line
