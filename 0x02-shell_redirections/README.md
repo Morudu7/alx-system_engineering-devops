@@ -7,3 +7,4 @@
 6.Script to prints the the first 3 lines of iacta and not allowed to use sed
 7.Script to create a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing Best School ending whith a new line
 8.Script that prints the result of ls -la in file ls_cwd_content
+9.Script to duplicate last line of iacta
