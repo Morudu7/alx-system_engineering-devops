@@ -8,3 +8,4 @@
 7.Script to create a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing Best School ending whith a new line
 8.Script that prints the result of ls -la in file ls_cwd_content
 9.Script to duplicate last line of iacta
+10.Script to delete all .js files in the current directory and subfolders
