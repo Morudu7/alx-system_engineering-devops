@@ -9,3 +9,4 @@
 8.Script that prints the result of ls -la in file ls_cwd_content
 9.Script to duplicate last line of iacta
 10.Script to delete all .js files in the current directory and subfolders
+11.Script to count number of directories and subdirectories int the current dir. NB,parent dir and hidden dir should not be counted
