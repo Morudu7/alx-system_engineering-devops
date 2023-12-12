@@ -4,3 +4,4 @@
 3.Script to count number  of directories in the PATH
 4.Script to list all environment variables
 5.Script to list all local variables and environmental variables and functions
+6.Script to create a new local variable , Name:Best , value:School
