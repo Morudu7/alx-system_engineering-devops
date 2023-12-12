@@ -6,3 +6,4 @@
 5.Script to list all local variables and environmental variables and functions
 6.Script to create a new local variable , Name:Best , value:School
 7.Script to create a new global variable , Name:Best , value:School
+8.Script that print the results additionof 128 whith value stored in the environmental variable TRUEKNOWLEDGE , followed by new line.
