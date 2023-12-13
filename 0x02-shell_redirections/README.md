@@ -11,3 +11,4 @@
 10.Script to delete all .js files in the current directory and subfolders
 11.Script to count number of directories and subdirectories int the current dir. NB,parent dir and hidden dir should not be counted
 12.Script to display first 10 lines in current dir from oldest to newest and one file for each line
+13.Script that takes list of words as input and only prints words that appear ones
