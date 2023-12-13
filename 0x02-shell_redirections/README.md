@@ -13,3 +13,4 @@
 12.Script to display first 10 lines in current dir from oldest to newest and one file for each line
 13.Script that takes list of words as input and only prints words that appear ones
 14.Script to display the pattern "root" from the /etc/passwd
+15.Script display the number of lines that contain the pattern "bi" in /etc/passwd
