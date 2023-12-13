@@ -17,3 +17,4 @@
 16.Script to display lines containing pattern "root" and 3 lines after them in etc/passwd
 17.Script that display all lines in the file /etc/passwd that do not contain the pattern "bin'
 18.Script to display all lines of the file /etc/ssh/sshd_config
+19.Script to replace letters A and c from input Z and e respectively
