@@ -14,3 +14,4 @@
 13.Script that takes list of words as input and only prints words that appear ones
 14.Script to display the pattern "root" from the /etc/passwd
 15.Script display the number of lines that contain the pattern "bi" in /etc/passwd
+16.Script to display lines containing pattern "root" and 3 lines after them in etc/passwd
