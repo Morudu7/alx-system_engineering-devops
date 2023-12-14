@@ -21,3 +21,7 @@
 20.
 21.Script that reverse its input
 22.Script that displays all users and their home directories, sorted by users
+23.Script that finds all empty files and directories in the current directory and all sub-directories.only names can be displayed,no hidden files,list end $, 
+24.
+25.
+26.
